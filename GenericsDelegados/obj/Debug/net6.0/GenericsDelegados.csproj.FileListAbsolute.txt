@@ -1,0 +1,15 @@
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\bin\Debug\net6.0\GenericsDelegados.exe
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\bin\Debug\net6.0\GenericsDelegados.deps.json
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\bin\Debug\net6.0\GenericsDelegados.runtimeconfig.json
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\bin\Debug\net6.0\GenericsDelegados.dll
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\bin\Debug\net6.0\GenericsDelegados.pdb
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.csproj.AssemblyReference.cache
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.AssemblyInfoInputs.cache
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.AssemblyInfo.cs
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.csproj.CoreCompileInputs.cache
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.dll
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\refint\GenericsDelegados.dll
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.pdb
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\GenericsDelegados.genruntimeconfig.cache
+C:\Users\UNSTA\source\repos\GenericsDelegados\GenericsDelegados\obj\Debug\net6.0\ref\GenericsDelegados.dll
